@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Raw datasets
+data/raw/
+
+# Large generated outputs
+results/
+figures/
+
+# OS files
+.DS_Store
+Thumbs.db
